@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsonreal", "jsonreal\jsonreal.csproj", "{78B0D51A-DDDD-452A-BB6D-F4DD8D6DF96F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78B0D51A-DDDD-452A-BB6D-F4DD8D6DF96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B0D51A-DDDD-452A-BB6D-F4DD8D6DF96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B0D51A-DDDD-452A-BB6D-F4DD8D6DF96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B0D51A-DDDD-452A-BB6D-F4DD8D6DF96F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D387CC0-95B8-463B-9BE0-E961DBB33284}
+	EndGlobalSection
+EndGlobal
